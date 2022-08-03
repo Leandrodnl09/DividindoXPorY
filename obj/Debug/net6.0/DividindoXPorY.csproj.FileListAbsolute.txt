@@ -1,0 +1,15 @@
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\DividindoXPorY\bin\Debug\net6.0\DividindoXPorY.exe
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\DividindoXPorY\bin\Debug\net6.0\DividindoXPorY.deps.json
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\DividindoXPorY\bin\Debug\net6.0\DividindoXPorY.runtimeconfig.json
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\DividindoXPorY\bin\Debug\net6.0\DividindoXPorY.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\DividindoXPorY\bin\Debug\net6.0\DividindoXPorY.pdb
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\DividindoXPorY\obj\Debug\net6.0\DividindoXPorY.csproj.AssemblyReference.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\DividindoXPorY\obj\Debug\net6.0\DividindoXPorY.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\DividindoXPorY\obj\Debug\net6.0\DividindoXPorY.AssemblyInfoInputs.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\DividindoXPorY\obj\Debug\net6.0\DividindoXPorY.AssemblyInfo.cs
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\DividindoXPorY\obj\Debug\net6.0\DividindoXPorY.csproj.CoreCompileInputs.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\DividindoXPorY\obj\Debug\net6.0\DividindoXPorY.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\DividindoXPorY\obj\Debug\net6.0\refint\DividindoXPorY.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\DividindoXPorY\obj\Debug\net6.0\DividindoXPorY.pdb
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\DividindoXPorY\obj\Debug\net6.0\DividindoXPorY.genruntimeconfig.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\DividindoXPorY\obj\Debug\net6.0\ref\DividindoXPorY.dll
